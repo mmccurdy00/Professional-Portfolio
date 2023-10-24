@@ -1,3 +1,10 @@
-h1 {
-  color: red;
+.navbar-brand {
+  color: #a287f4 !important;
+  font-family: "Gochi Hand" !important;
+}
+.nav-item {
+  font-family: "Special Elite" !important;
+}
+.active {
+  color: #12e6c8 !important;
 }
