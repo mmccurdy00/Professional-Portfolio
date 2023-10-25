@@ -40,12 +40,11 @@ h1 {
   color: #a287f4;
   font-family: "Gochi Hand";
 }
-.button {
-  background: #a287f4 !important;
-  color: #ffffff !important;
-}
 p {
   color: #ffffff !important;
   font-family: "Special Elite" !important;
   font-size: 18px;
+}
+.button-label {
+  color: #a287f4 !important;
 }
