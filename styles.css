@@ -5,6 +5,47 @@
 .nav-item {
   font-family: "Special Elite" !important;
 }
-.active {
+body {
+  background: #000000;
+}
+h2 {
+  color: #ffffff;
+  font-family: "Special Elite";
+  text-align: center;
+}
+h3 {
+  color: #ffffff;
+  font-family: "Special Elite";
+  text-align: center;
+}
+h1 {
+  color: #a287f4;
+  font-family: "Gochi Hand";
+  text-align: center;
+  font-size: 70px;
+}
+.top-heading {
+  padding-top: 35px;
+}
+.code {
   color: #12e6c8 !important;
+}
+.header-ending {
+  padding-top: 10px;
+}
+.tidbits {
+  padding-top: 20px;
+}
+.tidbit-title {
+  color: #a287f4;
+  font-family: "Gochi Hand";
+}
+.button {
+  background: #a287f4 !important;
+  color: #ffffff !important;
+}
+p {
+  color: #ffffff !important;
+  font-family: "Special Elite" !important;
+  font-size: 18px;
 }
