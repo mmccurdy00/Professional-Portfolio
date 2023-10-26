@@ -48,3 +48,12 @@ p {
 .button-label {
   color: #a287f4 !important;
 }
+img {
+  max-width: 150px;
+}
+footer {
+  padding-top: 35px;
+}
+i {
+  padding: 10px;
+}
