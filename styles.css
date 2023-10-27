@@ -25,7 +25,7 @@ h1 {
   font-size: 70px;
 }
 .top-heading {
-  padding-top: 35px;
+  padding-top: 100px;
 }
 .code {
   color: #12e6c8 !important;
@@ -34,7 +34,7 @@ h1 {
   padding-top: 10px;
 }
 .tidbits {
-  padding-top: 20px;
+  padding-top: 50px;
 }
 .tidbit-title {
   color: #a287f4;
@@ -44,6 +44,7 @@ p {
   color: #ffffff !important;
   font-family: "Special Elite" !important;
   font-size: 18px;
+  line-height: 2.5;
 }
 .button-label {
   color: #a287f4 !important;
@@ -52,8 +53,19 @@ img {
   max-width: 150px;
 }
 footer {
-  padding-top: 35px;
+  padding-top: 45px;
 }
 i {
   padding: 10px;
+}
+.tidbit {
+  padding-top: 35px;
+}
+.footer-name {
+  font-family: "Gochi Hand";
+  color: #a287f4;
+}
+a {
+  text-decoration: none;
+  color: #a287f4;
 }
