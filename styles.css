@@ -1,6 +1,6 @@
 .navbar-brand {
   color: #a287f4 !important;
-  font-family: "Gochi Hand" !important;
+  font-family: "Shadows Into Light" !important;
 }
 .nav-item {
   font-family: "Special Elite" !important;
@@ -20,7 +20,7 @@ h3 {
 }
 h1 {
   color: #a287f4;
-  font-family: "Gochi Hand";
+  font-family: "Shadows Into Light";
   text-align: center;
   font-size: 70px;
 }
@@ -38,7 +38,7 @@ h1 {
 }
 .tidbit-title {
   color: #a287f4;
-  font-family: "Gochi Hand";
+  font-family: "Shadows Into Light";
 }
 p {
   color: #ffffff !important;
@@ -48,6 +48,8 @@ p {
 }
 .button-label {
   color: #a287f4 !important;
+  font-family: "Shadows Into Light" !important;
+  font-size: 20px !important;
 }
 img {
   max-width: 150px;
@@ -62,7 +64,7 @@ i {
   padding-top: 35px;
 }
 .footer-name {
-  font-family: "Gochi Hand";
+  font-family: "Shadows Into Light";
   color: #a287f4;
 }
 a {
